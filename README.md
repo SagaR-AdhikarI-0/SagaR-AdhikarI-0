@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SagaR-AdhikarI-0
-- 👀 I’m interested in building websites
-- 🌱 I’m currently learning React js and node js 
+- 👀 I build websites and apps
+- 🌱 React
 
 
 <!---
